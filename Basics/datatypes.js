@@ -14,3 +14,5 @@
 //object
 
 console.log(typeof "roshan");
+console.log(typeof null);
+console.log(typeof undefined);
